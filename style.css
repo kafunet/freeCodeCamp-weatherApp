@@ -1,0 +1,22 @@
+body{
+    font-family: 'Spirax', cursiv;
+    color:black;
+   }
+   h1{
+     font-size: 60px;
+   }
+
+   #city, 
+   #weatherType, 
+   #fTemp, 
+   #windSpeed,
+   li{
+     font-size: 40px;
+   }
+   .list-unstyled{
+       list-style-type: none;
+   }
+.weatherdesc {
+  display: flex;
+  align-content: center;
+}
